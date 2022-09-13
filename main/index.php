@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-        Портфолио
+        VitalyaOtletaesh
     </title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" 
         integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
@@ -17,7 +17,7 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="about_me/about_me.html">Portfolio</a>
+            <a class="nav-link" href="portfolio/index.php">Portfolio</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Social</a>
@@ -50,9 +50,7 @@
             </div>
         </div>
         <div class="right-side">
-            <div class="img-circle">
-                <img src="img/main_photo.jpg" alt="its me"/>
-            </div>
+            <img class="img-circle" src="img/main_photo.jpg" alt="its me"/>
         </div>
         <div class="clear"></div>
     </div>
