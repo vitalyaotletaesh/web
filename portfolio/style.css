@@ -31,7 +31,6 @@ a{
     margin: auto;
     margin-top: 10px;
     border: 1px solid #407;
-    /* border-radius: 50%; */
     width: 50%;
     text-align: center;
 }
@@ -43,6 +42,6 @@ a{
 
 .right-side{
     margin-top: 100px;
-    float: left;
+    float: right;
     width: 50%;
 }

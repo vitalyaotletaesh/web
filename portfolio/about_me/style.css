@@ -247,6 +247,10 @@ div{
     color: #000;
 }
 
+.slider-next-btn:hover{
+    cursor: pointer;
+}
+
 
 
 
