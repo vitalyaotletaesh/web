@@ -39,7 +39,9 @@
                 </a>
             </div>
             <div class="hw">
-                3
+                <a href="lending/index.php">
+                    Лендинг
+                </a>
             </div>
             <div class="hw">
                 4
